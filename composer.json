@@ -1,0 +1,12 @@
+{
+  "name": "sacredheartsc/sabredav-freeipa",
+  "description": "FreeIPA integration for sabredav",
+  "require": {
+    "sabre/dav": "~4.3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "FreeIPA\\": "src/"
+    }
+  }
+}
