@@ -28,7 +28,10 @@ Both backends require `php-ldap` compiled with SASL support. Check `phpinfo()` t
 verify you have a compatible version. In addition, the PHP process needs access
 to kerberos credentials in order to perform LDAP queries (see [below](#apache-configuration)).
 
-I've only tested this on Rocky Linux 8 with Apache 2.4 and PHP 7.4.
+This project has been used successfully in the following environments:
+
+  - Rocky Linux 8 with Apache 2.4 and PHP 7.4
+  - Rocky Linux 9 with Apache 2.4 and PHP 8.0
 
 
 ## Limitations
