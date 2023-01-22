@@ -3,7 +3,7 @@
  *
  * FreeIPA group definition
  *
- * @author stonewall
+ * @author stonewall@sacredheartsc.com
  * @license https://opensource.org/licenses/MIT
  * @version 0.01
  *
