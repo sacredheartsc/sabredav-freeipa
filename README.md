@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This project extends the [SabreDAV](https://sabre.io/dav/) framework with
+This project extends the [sabre/dav](https://sabre.io/dav/) framework with
 authentication and principal backends for [FreeIPA](https://www.freeipa.org/).
 You can use this to run your own CalDAV/CardDAV server that retrieves users and
 groups from the local FreeIPA domain.
