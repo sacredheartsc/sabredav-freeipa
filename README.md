@@ -1,13 +1,13 @@
 # sabredav-freeipa
 
-FreeIPA integration for SabreDAV
+[FreeIPA](https://www.freeipa.org/) integration for [sabre/dav](https://sabre.io/dav/)
 
 ## What is this?
 
 This project extends the [SabreDAV](https://sabre.io/dav/) framework with
-authentication and principal backends for FreeIPA. You can use this to run your
-own CalDAV/CardDAV server that retrieves users and groups from the local FreeIPA
-domain.
+authentication and principal backends for [FreeIPA](https://www.freeipa.org/).
+You can use this to run your own CalDAV/CardDAV server that retrieves users and
+groups from the local FreeIPA domain.
 
 Two backends are provided:
 
