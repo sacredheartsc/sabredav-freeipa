@@ -54,7 +54,7 @@ Clone this repostory into your webroot:
 ```bash
 webroot=/var/www/html/sabredav
 mkdir $webroot
-git clone https://git.sacredheartsc.com/sabredav-freeipa $webroot
+git clone https://github.com/sacredheatsc/sabredav-freeipa $webroot
 ```
 
 Install dependences using [composer](https://getcomposer.org/):
